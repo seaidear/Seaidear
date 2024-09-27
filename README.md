@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://r4.wallpaperflare.com/wallpaper/477/71/766/sunset-birds-uchiha-itachi-anime-wallpaper-d97058bde18afd9be637880f3051968d.jpg" alt="Profile Background" style="width: 100%; max-width: 100%;">
+  <img src="https://r4.wallpaperflare.com/wallpaper/477/71/766/sunset-birds-uchiha-itachi-anime-wallpaper-d97058bde18afd9be637880f3051968d.jpg" alt="Profile Background" style="width: 80%; max-width: 80%;">
 </div>
 <br />
 <p align="center">

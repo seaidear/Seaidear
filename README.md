@@ -7,5 +7,7 @@
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/m45ORQzCHjIm" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://p-osterwald.tech/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://t.me/seaidear" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/674664447012241418" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/discord.png"  width="50" /></a>
 </p>
